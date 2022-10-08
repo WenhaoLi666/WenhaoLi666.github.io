@@ -2,7 +2,7 @@
 title: "Dimension Reduction in Contextual Online Learning via Nonparametric Variable Selection."
 collection: publications
 permalink: /publication/Patient_Priority
-date: 2022-10-03
+date: 2020-10-03
 #venue: 'Operations Research'
 paperurl: '/files/nonpar_sparse_JMLR_arXiv.pdf'
 link: 'https://arxiv.org/pdf/2009.08265.pdf'
