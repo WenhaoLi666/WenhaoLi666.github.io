@@ -7,6 +7,18 @@ redirect_from:
   - /resume
 ---
 
-<iframe src="/files/pdf/Williams CV.pdf" width="100%" height="500" frameborder="no" border="0" marginwidth="0" marginheight="0"></iframe>
+{% include base_path %}
 
-You can download a PDF copy of my CV [here](/files/pdf/Williams CV.pdf).
+More information about me can be found in my CV. [here](/files/WenhaoLi_CV_Postdoc.pdf)
+
+Education
+======
+* B.Eng. in Control Science and Engineering, Zhejiang University, 2016
+* Ph.D in Management Sciences, College of Business, City University of Hong Kong, 2021
+  * Supervisors: Prof. Zhankun Sun and Prof. Jeff Hong
+
+Work experience
+======
+* 2021-Present: Postdoctoral Fellow, Rotman School of Management, University of Toronto
+  * Academic Area: Operations Management and Statistics
+  * Supervisor: Prof. Ningyuan Chen
