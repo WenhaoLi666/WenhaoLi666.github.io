@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Dr. Wenhao Li"
+title                    : "Dr. Wenhao Li (李文浩)"
 title_separator          : "-"
 name                     : &name "Dr. Wenhao Li"
 description              : &description "Postdoctoral Fellow, Rotman School of Management, University of Toronto"
@@ -106,7 +106,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/wenhaoli666"
+  linkedin         : "wenhaoli666"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
