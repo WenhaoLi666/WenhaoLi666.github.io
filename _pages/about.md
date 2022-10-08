@@ -8,23 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a data scientist applying machine learning tools and causal
-inference techniques to remote sensing data. I am also an affiliated
-researcher with the [Data-driven Analysis of Peace Project](https://dapp-lab.org)
-and a research collaborator with the 
-[Research on International Policy Implementation Lab](https://bridgingthegapproject.org/ripil).
+I am currently a postdoctoral fellow at the Rotman School of Management, the University of Toronto. I got my PhD degree from the department of Management Sciences at the City University of Hong Kong. I am fortunate to collaborate with [Prof. Ningyuan Chen](http://individual.utoronto.ca/ningyuanchen/) (University of Toronto), [Prof. Zhankun Sun](https://zhanksun.github.io/) (City University of Hong Kong) and [Prof. L. Jeff Hong](https://jinzhi123.github.io/) (Fudan University).
 
-I earned my Ph.D in Political Science from the
-[University *of* North Carolina *at* Chapel Hill](https://www.unc.edu) and my
-B.A. in Political Science from [Haverford College](https://www.haverford.edu).
-My academic work has been [published](publications) or is forthcoming in
-*International Studies Quarterly*, *Conflict Management and Peace Science*,
-*Political Science Research and Methods*, and *PS: Political Science & Politics*,
-among other outlets. This [research](research) explores the causes and
-consequences of political violence using a broad variety of methods such as
-latent variable models, geospatial analysis, and big data. While primarily
-focused on civil conflict, it also examines contentious political phenomena
-including terrorism and economic statecraft, and develops new measures of
-institutions in international relations. I have [teaching](teaching) experience
-in both quantitative methodology and international relations, and am a certified
-instructor with [The Carpentries](https://carpentries.org).
+My research mainly focuses on data-driven decision making and its application in healthcare. For the theoretical part, I am interested in designing algorithms for online and offine statistical learning problems. For the application part, I am interested in finding insightful phenomena through data and connecting them to OM theories.
+
+More information about me can be found in my CV. [here](/files/WenhaoLi_CV_Postdoc.pdf)
