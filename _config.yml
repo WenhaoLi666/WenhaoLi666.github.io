@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dr. Wenhao Li (李文浩)"
 title_separator          : "-"
 name                     : &name "Dr. Wenhao Li"
-description              : &description "Postdoctoral Fellow, Rotman School of Management, University of Toronto"
+description              : &description "Assistant Professor, Department of Operations Management, College of Business, Shanghai University of Finance and Economics"
 url                      : "https://WenhaoLi666.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "WenhaoLi666.github.io"
@@ -84,13 +84,13 @@ analytics:
 author:
   name             : "Dr. Wenhao Li"
   avatar           : "profile.png"
-  bio              : "Postdoctoral Fellow, Rotman School of Management, University of Toronto"
-  location         : "Toronto, Ontario, Canada"
+  bio              : "Assistant Professor, Department of Operations Management, College of Business, Shanghai University of Finance and Economics"
+  location         : "Yangpu, Shanghai, China"
   employer         :
   pubmed           :
   orcid            : "https://orcid.org/0000-0003-1352-2775"
   googlescholar    : "https://scholar.google.com/citations?user=89CHOGYAAAAJ&hl=en"
-  email            : "wwenhao.li@mail.utoronto.ca"
+  email            : "liwenhao@mail.shufe.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
